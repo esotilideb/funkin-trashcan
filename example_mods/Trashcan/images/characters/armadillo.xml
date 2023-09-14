@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="armadillo.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ArmadilloDown0000" x="17" y="17" width="537" height="379" frameX="0" frameY="-7" frameWidth="537" frameHeight="391"/>
+	<SubTexture name="ArmadilloDown0001" x="17" y="17" width="537" height="379" frameX="0" frameY="-7" frameWidth="537" frameHeight="391"/>
+	<SubTexture name="ArmadilloDown0002" x="592" y="17" width="530" height="391" frameX="-6" frameY="0" frameWidth="537" frameHeight="391"/>
+	<SubTexture name="ArmadilloDown0003" x="592" y="17" width="530" height="391" frameX="-6" frameY="0" frameWidth="537" frameHeight="391"/>
+	<SubTexture name="ArmadilloDown0004" x="592" y="17" width="530" height="391" frameX="-6" frameY="0" frameWidth="537" frameHeight="391"/>
+	<SubTexture name="ArmadilloDown0005" x="592" y="17" width="530" height="391" frameX="-6" frameY="0" frameWidth="537" frameHeight="391"/>
+	<SubTexture name="ArmadilloDown0006" x="592" y="17" width="530" height="391" frameX="-6" frameY="0" frameWidth="537" frameHeight="391"/>
+	<SubTexture name="ArmadilloDown0007" x="592" y="17" width="530" height="391" frameX="-6" frameY="0" frameWidth="537" frameHeight="391"/>
+	<SubTexture name="ArmadilloDown0008" x="592" y="17" width="530" height="391" frameX="-6" frameY="0" frameWidth="537" frameHeight="391"/>
+	<SubTexture name="ArmadilloDown0009" x="592" y="17" width="530" height="391" frameX="-6" frameY="0" frameWidth="537" frameHeight="391"/>
+	<SubTexture name="ArmadilloIdle0000" x="1160" y="17" width="499" height="405" frameX="-1" frameY="-9" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloIdle0001" x="1160" y="17" width="499" height="405" frameX="-1" frameY="-9" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloIdle0002" x="17" y="460" width="498" height="404" frameX="0" frameY="-8" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloIdle0003" x="17" y="460" width="498" height="404" frameX="0" frameY="-8" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloIdle0004" x="553" y="460" width="498" height="406" frameX="-3" frameY="-2" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloIdle0005" x="553" y="460" width="498" height="406" frameX="-3" frameY="-2" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloIdle0006" x="1089" y="460" width="499" height="406" frameX="-3" frameY="0" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloIdle0007" x="1089" y="460" width="499" height="406" frameX="-3" frameY="0" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloIdle0008" x="1089" y="460" width="499" height="406" frameX="-3" frameY="0" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloIdle0009" x="1626" y="460" width="499" height="406" frameX="-3" frameY="0" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloIdle0010" x="1626" y="460" width="499" height="406" frameX="-3" frameY="0" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloIdle0011" x="1626" y="460" width="499" height="406" frameX="-3" frameY="0" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloIdle0012" x="1626" y="460" width="499" height="406" frameX="-3" frameY="0" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloIdle0013" x="1626" y="460" width="499" height="406" frameX="-3" frameY="0" frameWidth="502" frameHeight="414"/>
+	<SubTexture name="ArmadilloLeft0000" x="17" y="904" width="504" height="421" frameX="0" frameY="-4" frameWidth="505" frameHeight="425"/>
+	<SubTexture name="ArmadilloLeft0001" x="17" y="904" width="504" height="421" frameX="0" frameY="-4" frameWidth="505" frameHeight="425"/>
+	<SubTexture name="ArmadilloLeft0002" x="559" y="904" width="499" height="425" frameX="-6" frameY="0" frameWidth="505" frameHeight="425"/>
+	<SubTexture name="ArmadilloLeft0003" x="559" y="904" width="499" height="425" frameX="-6" frameY="0" frameWidth="505" frameHeight="425"/>
+	<SubTexture name="ArmadilloLeft0004" x="559" y="904" width="499" height="425" frameX="-6" frameY="0" frameWidth="505" frameHeight="425"/>
+	<SubTexture name="ArmadilloLeft0005" x="559" y="904" width="499" height="425" frameX="-6" frameY="0" frameWidth="505" frameHeight="425"/>
+	<SubTexture name="ArmadilloLeft0006" x="559" y="904" width="499" height="425" frameX="-6" frameY="0" frameWidth="505" frameHeight="425"/>
+	<SubTexture name="ArmadilloLeft0007" x="559" y="904" width="499" height="425" frameX="-6" frameY="0" frameWidth="505" frameHeight="425"/>
+	<SubTexture name="ArmadilloLeft0008" x="559" y="904" width="499" height="425" frameX="-6" frameY="0" frameWidth="505" frameHeight="425"/>
+	<SubTexture name="ArmadilloLeft0009" x="559" y="904" width="499" height="425" frameX="-6" frameY="0" frameWidth="505" frameHeight="425"/>
+	<SubTexture name="ArmadilloRight0000" x="1096" y="904" width="530" height="443" frameX="0" frameY="-3" frameWidth="530" frameHeight="447"/>
+	<SubTexture name="ArmadilloRight0001" x="1096" y="904" width="530" height="443" frameX="0" frameY="-3" frameWidth="530" frameHeight="447"/>
+	<SubTexture name="ArmadilloRight0002" x="1664" y="904" width="525" height="447" frameX="-1" frameY="0" frameWidth="530" frameHeight="447"/>
+	<SubTexture name="ArmadilloRight0003" x="1664" y="904" width="525" height="447" frameX="-1" frameY="0" frameWidth="530" frameHeight="447"/>
+	<SubTexture name="ArmadilloRight0004" x="1664" y="904" width="525" height="447" frameX="-1" frameY="0" frameWidth="530" frameHeight="447"/>
+	<SubTexture name="ArmadilloRight0005" x="1664" y="904" width="525" height="447" frameX="-1" frameY="0" frameWidth="530" frameHeight="447"/>
+	<SubTexture name="ArmadilloRight0006" x="1664" y="904" width="525" height="447" frameX="-1" frameY="0" frameWidth="530" frameHeight="447"/>
+	<SubTexture name="ArmadilloRight0007" x="1664" y="904" width="525" height="447" frameX="-1" frameY="0" frameWidth="530" frameHeight="447"/>
+	<SubTexture name="ArmadilloRight0008" x="1664" y="904" width="525" height="447" frameX="-1" frameY="0" frameWidth="530" frameHeight="447"/>
+	<SubTexture name="ArmadilloRight0009" x="1664" y="904" width="525" height="447" frameX="-1" frameY="0" frameWidth="530" frameHeight="447"/>
+	<SubTexture name="ArmadilloUp0000" x="17" y="1389" width="480" height="459" frameX="-3" frameY="0" frameWidth="483" frameHeight="459"/>
+	<SubTexture name="ArmadilloUp0001" x="17" y="1389" width="480" height="459" frameX="-3" frameY="0" frameWidth="483" frameHeight="459"/>
+	<SubTexture name="ArmadilloUp0002" x="535" y="1389" width="482" height="453" frameX="0" frameY="-6" frameWidth="483" frameHeight="459"/>
+	<SubTexture name="ArmadilloUp0003" x="535" y="1389" width="482" height="453" frameX="0" frameY="-6" frameWidth="483" frameHeight="459"/>
+	<SubTexture name="ArmadilloUp0004" x="535" y="1389" width="482" height="453" frameX="0" frameY="-6" frameWidth="483" frameHeight="459"/>
+	<SubTexture name="ArmadilloUp0005" x="535" y="1389" width="482" height="453" frameX="0" frameY="-6" frameWidth="483" frameHeight="459"/>
+	<SubTexture name="ArmadilloUp0006" x="535" y="1389" width="482" height="453" frameX="0" frameY="-6" frameWidth="483" frameHeight="459"/>
+	<SubTexture name="ArmadilloUp0007" x="535" y="1389" width="482" height="453" frameX="0" frameY="-6" frameWidth="483" frameHeight="459"/>
+	<SubTexture name="ArmadilloUp0008" x="535" y="1389" width="482" height="453" frameX="0" frameY="-6" frameWidth="483" frameHeight="459"/>
+	<SubTexture name="ArmadilloUp0009" x="535" y="1389" width="482" height="453" frameX="0" frameY="-6" frameWidth="483" frameHeight="459"/>
+</TextureAtlas>

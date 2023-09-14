@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tanic.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tanic bumping0000" x="17" y="17" width="371" height="443" frameX="0" frameY="-16" frameWidth="382" frameHeight="463"/>
+	<SubTexture name="tanic bumping0001" x="17" y="17" width="371" height="443" frameX="0" frameY="-16" frameWidth="382" frameHeight="463"/>
+	<SubTexture name="tanic bumping0002" x="426" y="17" width="375" height="443" frameX="-3" frameY="-20" frameWidth="382" frameHeight="463"/>
+	<SubTexture name="tanic bumping0003" x="426" y="17" width="375" height="443" frameX="-3" frameY="-20" frameWidth="382" frameHeight="463"/>
+	<SubTexture name="tanic bumping0004" x="839" y="17" width="377" height="443" frameX="-5" frameY="-11" frameWidth="382" frameHeight="463"/>
+	<SubTexture name="tanic bumping0005" x="839" y="17" width="377" height="443" frameX="-5" frameY="-11" frameWidth="382" frameHeight="463"/>
+	<SubTexture name="tanic bumping0006" x="426" y="17" width="375" height="443" frameX="-3" frameY="-4" frameWidth="382" frameHeight="463"/>
+	<SubTexture name="tanic bumping0007" x="426" y="17" width="375" height="443" frameX="-3" frameY="-4" frameWidth="382" frameHeight="463"/>
+	<SubTexture name="tanic bumping0008" x="17" y="498" width="374" height="443" frameX="-2" frameY="-2" frameWidth="382" frameHeight="463"/>
+	<SubTexture name="tanic bumping0009" x="17" y="498" width="374" height="443" frameX="-2" frameY="-2" frameWidth="382" frameHeight="463"/>
+	<SubTexture name="tanic bumping0010" x="17" y="498" width="374" height="443" frameX="-2" frameY="-2" frameWidth="382" frameHeight="463"/>
+	<SubTexture name="tanic bumping0011" x="429" y="498" width="374" height="444" frameX="-1" frameY="0" frameWidth="382" frameHeight="463"/>
+	<SubTexture name="tanic bumping0012" x="429" y="498" width="374" height="444" frameX="-1" frameY="0" frameWidth="382" frameHeight="463"/>
+	<SubTexture name="tanic bumping0013" x="429" y="498" width="374" height="444" frameX="-1" frameY="0" frameWidth="382" frameHeight="463"/>
+</TextureAtlas>

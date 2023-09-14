@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_bios.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bios Select0000" x="70" y="70" width="889" height="302"/>
+	<SubTexture name="bios Unselect0000" x="70" y="452" width="885" height="302"/>
+</TextureAtlas>

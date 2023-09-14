@@ -1,0 +1,32 @@
+{
+	"storyName": "no se",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Nerd Power",
+			"avgn",
+			[
+				195,
+				40,
+				95
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "nerd",
+	"hiddenUntilUnlocked": false
+}

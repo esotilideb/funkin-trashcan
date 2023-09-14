@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				-273
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "OgorkiDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-243
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "OgorkiLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-163,
+				-246
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "OgorkiRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				-200
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "OgorkiUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-250
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "OgorkiIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ogorki",
+	"position": [
+		-90,
+		-20
+	],
+	"healthicon": "ogorki",
+	"flip_x": false,
+	"healthbar_colors": [
+		39,
+		109,
+		29
+	],
+	"camera_position": [
+		300,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

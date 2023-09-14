@@ -1,0 +1,7 @@
+{
+	"name": "Funkin' Trashcan",
+	"description": "Hola",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [97, 159, 188]
+}

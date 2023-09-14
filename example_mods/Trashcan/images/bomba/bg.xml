@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bagroun0000" x="70" y="70" width="3045" height="1482"/>
+	<SubTexture name="bagroun0001" x="70" y="70" width="3045" height="1482"/>
+	<SubTexture name="bagroun0002" x="70" y="1632" width="3045" height="1482"/>
+	<SubTexture name="bagroun0003" x="70" y="1632" width="3045" height="1482"/>
+</TextureAtlas>

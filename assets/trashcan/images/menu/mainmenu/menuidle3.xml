@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menuidle3.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="maurice0000" x="17" y="17" width="451" height="391"/>
+	<SubTexture name="maurice0001" x="17" y="17" width="451" height="391"/>
+	<SubTexture name="maurice0002" x="17" y="17" width="451" height="391"/>
+	<SubTexture name="maurice0003" x="506" y="17" width="450" height="391" frameX="-1" frameY="0" frameWidth="451" frameHeight="391"/>
+	<SubTexture name="maurice0004" x="994" y="17" width="450" height="391" frameX="-1" frameY="0" frameWidth="451" frameHeight="391"/>
+	<SubTexture name="maurice0005" x="994" y="17" width="450" height="391" frameX="-1" frameY="0" frameWidth="451" frameHeight="391"/>
+	<SubTexture name="maurice0006" x="1482" y="17" width="450" height="390" frameX="-1" frameY="-1" frameWidth="451" frameHeight="391"/>
+	<SubTexture name="maurice0007" x="1482" y="17" width="450" height="390" frameX="-1" frameY="-1" frameWidth="451" frameHeight="391"/>
+	<SubTexture name="maurice0008" x="1482" y="17" width="450" height="390" frameX="-1" frameY="-1" frameWidth="451" frameHeight="391"/>
+</TextureAtlas>

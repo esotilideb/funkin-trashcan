@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				-42
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/toppins",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "test",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-20,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

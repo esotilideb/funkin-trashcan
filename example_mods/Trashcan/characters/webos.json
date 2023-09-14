@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-167,
+				-128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-129,
+				-204
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-132,
+				-149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-213,
+				-141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-224,
+				-149
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-57,
+				-154
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bolas",
+			"loop": true,
+			"name": "bolas"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/huevo",
+	"position": [
+		20,
+		90
+	],
+	"healthicon": "webos",
+	"flip_x": true,
+	"healthbar_colors": [
+		243,
+		227,
+		106
+	],
+	"camera_position": [
+		270,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

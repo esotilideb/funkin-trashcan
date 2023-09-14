@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-38,
+				-267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "HarryDown"
+		},
+		{
+			"offsets": [
+				-161,
+				-193
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "HarryUp"
+		},
+		{
+			"offsets": [
+				-244,
+				-239
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "HarryRight"
+		},
+		{
+			"offsets": [
+				-85,
+				-255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "HarryLeft"
+		},
+		{
+			"offsets": [
+				-130,
+				-250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "HarryIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/harry",
+	"position": [
+		-120,
+		-10
+	],
+	"healthicon": "harry",
+	"flip_x": false,
+	"healthbar_colors": [
+		48,
+		139,
+		209
+	],
+	"camera_position": [
+		330,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

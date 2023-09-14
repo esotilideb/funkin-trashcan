@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mouse.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flecha select0000" x="281" y="318" width="152" height="162" frameX="-30" frameY="-39" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0001" x="281" y="318" width="152" height="162" frameX="-30" frameY="-39" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0002" x="513" y="519" width="157" height="136" frameX="-30" frameY="-73" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0003" x="513" y="519" width="157" height="136" frameX="-30" frameY="-73" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0004" x="70" y="560" width="199" height="66" frameX="0" frameY="-144" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0005" x="70" y="560" width="199" height="66" frameX="0" frameY="-144" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0006" x="70" y="70" width="131" height="208" frameX="-39" frameY="0" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0007" x="70" y="70" width="131" height="208" frameX="-39" frameY="0" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0008" x="281" y="70" width="151" height="168" frameX="-30" frameY="-31" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0009" x="281" y="70" width="151" height="168" frameX="-30" frameY="-31" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0010" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0011" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0012" x="512" y="70" width="159" height="145" frameX="-26" frameY="-51" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0013" x="512" y="70" width="159" height="145" frameX="-26" frameY="-51" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0014" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0015" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0016" x="512" y="70" width="159" height="145" frameX="-26" frameY="-51" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0017" x="512" y="70" width="159" height="145" frameX="-26" frameY="-51" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0018" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0019" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0020" x="512" y="70" width="159" height="145" frameX="-26" frameY="-51" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0021" x="512" y="70" width="159" height="145" frameX="-26" frameY="-51" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0022" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0023" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0024" x="512" y="70" width="159" height="145" frameX="-26" frameY="-51" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0025" x="512" y="70" width="159" height="145" frameX="-26" frameY="-51" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0026" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0027" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0028" x="512" y="70" width="159" height="145" frameX="-26" frameY="-51" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0029" x="512" y="70" width="159" height="145" frameX="-26" frameY="-51" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0030" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0031" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0032" x="512" y="70" width="159" height="145" frameX="-26" frameY="-51" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0033" x="512" y="70" width="159" height="145" frameX="-26" frameY="-51" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0034" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flecha select0035" x="513" y="295" width="159" height="144" frameX="-26" frameY="-52" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flechas0000" x="513" y="295" width="159" height="144" frameX="0" frameY="0" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flechas0001" x="513" y="295" width="159" height="144" frameX="0" frameY="0" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flechas0002" x="512" y="70" width="159" height="145" frameX="-1" frameY="0" frameWidth="199" frameHeight="210"/>
+	<SubTexture name="flechas0003" x="512" y="70" width="159" height="145" frameX="-1" frameY="0" frameWidth="199" frameHeight="210"/>
+</TextureAtlas>

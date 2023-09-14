@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="harry.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HarryDown0000" x="17" y="17" width="617" height="499" frameX="-3" frameY="-11" frameWidth="633" frameHeight="510"/>
+	<SubTexture name="HarryDown0001" x="672" y="17" width="620" height="495" frameX="0" frameY="-15" frameWidth="633" frameHeight="510"/>
+	<SubTexture name="HarryDown0002" x="672" y="17" width="620" height="495" frameX="0" frameY="-15" frameWidth="633" frameHeight="510"/>
+	<SubTexture name="HarryDown0003" x="1330" y="17" width="621" height="500" frameX="-6" frameY="-10" frameWidth="633" frameHeight="510"/>
+	<SubTexture name="HarryDown0004" x="1330" y="17" width="621" height="500" frameX="-6" frameY="-10" frameWidth="633" frameHeight="510"/>
+	<SubTexture name="HarryDown0005" x="1989" y="17" width="620" height="508" frameX="-12" frameY="-2" frameWidth="633" frameHeight="510"/>
+	<SubTexture name="HarryDown0006" x="1989" y="17" width="620" height="508" frameX="-12" frameY="-2" frameWidth="633" frameHeight="510"/>
+	<SubTexture name="HarryDown0007" x="1989" y="17" width="620" height="508" frameX="-12" frameY="-2" frameWidth="633" frameHeight="510"/>
+	<SubTexture name="HarryDown0008" x="2647" y="17" width="618" height="510" frameX="-15" frameY="0" frameWidth="633" frameHeight="510"/>
+	<SubTexture name="HarryDown0009" x="2647" y="17" width="618" height="510" frameX="-15" frameY="0" frameWidth="633" frameHeight="510"/>
+	<SubTexture name="HarryIdle0000" x="3303" y="17" width="439" height="521" frameX="-1" frameY="-7" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryIdle0001" x="3303" y="17" width="439" height="521" frameX="-1" frameY="-7" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryIdle0002" x="17" y="576" width="438" height="518" frameX="0" frameY="-10" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryIdle0003" x="17" y="576" width="438" height="518" frameX="0" frameY="-10" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryIdle0004" x="493" y="576" width="437" height="521" frameX="-1" frameY="-7" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryIdle0005" x="493" y="576" width="437" height="521" frameX="-1" frameY="-7" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryIdle0006" x="968" y="576" width="439" height="525" frameX="-2" frameY="-3" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryIdle0007" x="968" y="576" width="439" height="525" frameX="-2" frameY="-3" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryIdle0008" x="1445" y="576" width="440" height="526" frameX="-3" frameY="-2" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryIdle0009" x="1445" y="576" width="440" height="526" frameX="-3" frameY="-2" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryIdle0010" x="1923" y="576" width="441" height="528" frameX="-3" frameY="0" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryIdle0011" x="1923" y="576" width="441" height="528" frameX="-3" frameY="0" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryIdle0012" x="1923" y="576" width="441" height="528" frameX="-3" frameY="0" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryIdle0013" x="2402" y="576" width="441" height="528" frameX="-3" frameY="0" frameWidth="444" frameHeight="528"/>
+	<SubTexture name="HarryLeft0000" x="2881" y="576" width="481" height="523" frameX="-6" frameY="0" frameWidth="509" frameHeight="523"/>
+	<SubTexture name="HarryLeft0001" x="3400" y="576" width="485" height="523" frameX="0" frameY="0" frameWidth="509" frameHeight="523"/>
+	<SubTexture name="HarryLeft0002" x="3400" y="576" width="485" height="523" frameX="0" frameY="0" frameWidth="509" frameHeight="523"/>
+	<SubTexture name="HarryLeft0003" x="17" y="1142" width="471" height="520" frameX="-27" frameY="-3" frameWidth="509" frameHeight="523"/>
+	<SubTexture name="HarryLeft0004" x="17" y="1142" width="471" height="520" frameX="-27" frameY="-3" frameWidth="509" frameHeight="523"/>
+	<SubTexture name="HarryLeft0005" x="526" y="1142" width="463" height="521" frameX="-45" frameY="-2" frameWidth="509" frameHeight="523"/>
+	<SubTexture name="HarryLeft0006" x="526" y="1142" width="463" height="521" frameX="-45" frameY="-2" frameWidth="509" frameHeight="523"/>
+	<SubTexture name="HarryLeft0007" x="526" y="1142" width="463" height="521" frameX="-45" frameY="-2" frameWidth="509" frameHeight="523"/>
+	<SubTexture name="HarryLeft0008" x="1027" y="1142" width="463" height="522" frameX="-46" frameY="-1" frameWidth="509" frameHeight="523"/>
+	<SubTexture name="HarryLeft0009" x="1027" y="1142" width="463" height="522" frameX="-46" frameY="-1" frameWidth="509" frameHeight="523"/>
+	<SubTexture name="HarryRight0000" x="1528" y="1142" width="373" height="538" frameX="-3" frameY="0" frameWidth="386" frameHeight="538"/>
+	<SubTexture name="HarryRight0001" x="1939" y="1142" width="382" height="538" frameX="-4" frameY="0" frameWidth="386" frameHeight="538"/>
+	<SubTexture name="HarryRight0002" x="1939" y="1142" width="382" height="538" frameX="-4" frameY="0" frameWidth="386" frameHeight="538"/>
+	<SubTexture name="HarryRight0003" x="2359" y="1142" width="376" height="538" frameX="-2" frameY="0" frameWidth="386" frameHeight="538"/>
+	<SubTexture name="HarryRight0004" x="2359" y="1142" width="376" height="538" frameX="-2" frameY="0" frameWidth="386" frameHeight="538"/>
+	<SubTexture name="HarryRight0005" x="2773" y="1142" width="362" height="538" frameX="0" frameY="0" frameWidth="386" frameHeight="538"/>
+	<SubTexture name="HarryRight0006" x="2773" y="1142" width="362" height="538" frameX="0" frameY="0" frameWidth="386" frameHeight="538"/>
+	<SubTexture name="HarryRight0007" x="2773" y="1142" width="362" height="538" frameX="0" frameY="0" frameWidth="386" frameHeight="538"/>
+	<SubTexture name="HarryRight0008" x="3173" y="1142" width="358" height="538" frameX="0" frameY="0" frameWidth="386" frameHeight="538"/>
+	<SubTexture name="HarryRight0009" x="3173" y="1142" width="358" height="538" frameX="0" frameY="0" frameWidth="386" frameHeight="538"/>
+	<SubTexture name="HarryUp0000" x="3569" y="1142" width="450" height="590" frameX="-5" frameY="-3" frameWidth="455" frameHeight="593"/>
+	<SubTexture name="HarryUp0001" x="17" y="1770" width="426" height="593" frameX="-7" frameY="0" frameWidth="455" frameHeight="593"/>
+	<SubTexture name="HarryUp0002" x="17" y="1770" width="426" height="593" frameX="-7" frameY="0" frameWidth="455" frameHeight="593"/>
+	<SubTexture name="HarryUp0003" x="481" y="1770" width="427" height="575" frameX="-3" frameY="-18" frameWidth="455" frameHeight="593"/>
+	<SubTexture name="HarryUp0004" x="481" y="1770" width="427" height="575" frameX="-3" frameY="-18" frameWidth="455" frameHeight="593"/>
+	<SubTexture name="HarryUp0005" x="946" y="1770" width="432" height="557" frameX="-1" frameY="-36" frameWidth="455" frameHeight="593"/>
+	<SubTexture name="HarryUp0006" x="946" y="1770" width="432" height="557" frameX="-1" frameY="-36" frameWidth="455" frameHeight="593"/>
+	<SubTexture name="HarryUp0007" x="946" y="1770" width="432" height="557" frameX="-1" frameY="-36" frameWidth="455" frameHeight="593"/>
+	<SubTexture name="HarryUp0008" x="1416" y="1770" width="443" height="555" frameX="0" frameY="-38" frameWidth="455" frameHeight="593"/>
+	<SubTexture name="HarryUp0009" x="1416" y="1770" width="443" height="555" frameX="0" frameY="-38" frameWidth="455" frameHeight="593"/>
+</TextureAtlas>

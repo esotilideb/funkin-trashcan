@@ -1,0 +1,32 @@
+{
+	"storyName": "peppino ohio rizz 1 2 buckle my shoes pibby",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Pizza Rat",
+			"brick",
+			[
+				115,
+				0,
+				235
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "peppino ohio",
+	"hiddenUntilUnlocked": false
+}
