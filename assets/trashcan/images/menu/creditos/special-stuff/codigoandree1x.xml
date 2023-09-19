@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="codigoandree1x.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="codigoandree1x-00000" x="1208" y="0" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-10000" x="0" y="342" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-20000" x="2416" y="342" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-30000" x="1208" y="342" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-40000" x="604" y="2052" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-50000" x="0" y="2052" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-60000" x="604" y="342" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-70000" x="0" y="0" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-80000" x="1812" y="684" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-90000" x="1812" y="2052" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-100000" x="0" y="1368" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-110000" x="604" y="684" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-120000" x="1208" y="1026" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-130000" x="1812" y="1026" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-140000" x="1812" y="0" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-150000" x="1208" y="2052" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-160000" x="0" y="1710" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-170000" x="0" y="1026" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-180000" x="1208" y="1368" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-190000" x="1812" y="1710" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-200000" x="1812" y="1368" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-210000" x="604" y="1710" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-220000" x="604" y="0" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-230000" x="0" y="684" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-240000" x="1812" y="342" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-250000" x="2416" y="0" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-260000" x="604" y="1026" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-270000" x="1208" y="1710" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-280000" x="1208" y="684" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+	<SubTexture name="codigoandree1x-290000" x="604" y="1368" width="604" height="342" frameX="2" frameY="2" frameWidth="600" frameHeight="338"/>
+</TextureAtlas>

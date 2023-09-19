@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flecha_champeada.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Flecha0000" x="70" y="70" width="142" height="158"/>
+	<SubTexture name="Flecha0001" x="70" y="70" width="142" height="158"/>
+	<SubTexture name="Flecha0002" x="70" y="70" width="142" height="158"/>
+	<SubTexture name="Flecha0003" x="70" y="308" width="141" height="158" frameX="0" frameY="0" frameWidth="142" frameHeight="158"/>
+	<SubTexture name="Flecha0004" x="70" y="308" width="141" height="158" frameX="0" frameY="0" frameWidth="142" frameHeight="158"/>
+	<SubTexture name="flecha select0000" x="70" y="70" width="142" height="158"/>
+	<SubTexture name="flecha select0001" x="70" y="70" width="142" height="158"/>
+	<SubTexture name="flecha select0002" x="291" y="308" width="109" height="128" frameX="-16" frameY="-15" frameWidth="142" frameHeight="158"/>
+	<SubTexture name="flecha select0003" x="70" y="546" width="122" height="138" frameX="-10" frameY="-10" frameWidth="142" frameHeight="158"/>
+	<SubTexture name="flecha select0004" x="70" y="546" width="122" height="138" frameX="-10" frameY="-10" frameWidth="142" frameHeight="158"/>
+	<SubTexture name="flecha select0005" x="272" y="546" width="121" height="138" frameX="-10" frameY="-10" frameWidth="142" frameHeight="158"/>
+	<SubTexture name="flecha select0006" x="272" y="546" width="121" height="138" frameX="-10" frameY="-10" frameWidth="142" frameHeight="158"/>
+	<SubTexture name="flecha select0007" x="70" y="546" width="122" height="138" frameX="-10" frameY="-10" frameWidth="142" frameHeight="158"/>
+	<SubTexture name="flecha select0008" x="70" y="546" width="122" height="138" frameX="-10" frameY="-10" frameWidth="142" frameHeight="158"/>
+	<SubTexture name="flecha select0009" x="272" y="546" width="121" height="138" frameX="-10" frameY="-10" frameWidth="142" frameHeight="158"/>
+</TextureAtlas>
